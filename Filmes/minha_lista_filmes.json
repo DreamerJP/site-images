@@ -84,15 +84,25 @@
       "url": "https://letterboxd.com/film/jurassic-park/",
       "title": "Jurassic Park (1993)"
     },
+	{
+      "slug": "the-lost-world-jurassic-park",
+      "url": "https://letterboxd.com/film/the-lost-world-jurassic-park/",
+      "title": "The Lost World: Jurassic Park"
+    },
     {
       "slug": "jurassic-park-iii",
       "url": "https://letterboxd.com/film/jurassic-park-iii/",
       "title": "Jurassic Park III"
     },
+	{
+      "slug": "jurassic-world-2015",
+      "url": "https://letterboxd.com/film/jurassic-world/",
+      "title": "Jurassic World (2015)"
+    },
     {
-      "slug": "the-lost-world-jurassic-park",
-      "url": "https://letterboxd.com/film/the-lost-world-jurassic-park/",
-      "title": "The Lost World: Jurassic Park"
+      "slug": "jurassic-world-fallen-kingdom",
+      "url": "https://letterboxd.com/film/jurassic-world-fallen-kingdom/",
+      "title": "Jurassic World: Fallen Kingdom"
     },
     {
       "slug": "war-of-the-worlds",
@@ -135,9 +145,9 @@
       "title": "The New Mutants"
     },
     {
-      "slug": "転生したらスライムだった件 転スラ日記-2021",
+      "slug": "転生したらスライムだった件 転スラ日記",
       "url": "https://letterboxd.com/film/the-slime-diaries/",
-      "title": "The Slime Diaries (2021)"
+      "title": "The Slime Diaries"
     },
     {
       "slug": "that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond",
@@ -358,16 +368,6 @@
       "slug": "ant-man-and-the-wasp",
       "url": "https://letterboxd.com/film/ant-man-and-the-wasp/",
       "title": "Ant-Man and the Wasp"
-    },
-    {
-      "slug": "jurassic-world-2015",
-      "url": "https://letterboxd.com/film/jurassic-world/",
-      "title": "Jurassic World (2015)"
-    },
-    {
-      "slug": "jurassic-world-fallen-kingdom",
-      "url": "https://letterboxd.com/film/jurassic-world-fallen-kingdom/",
-      "title": "Jurassic World: Fallen Kingdom"
     },
     {
       "slug": "x-men",
