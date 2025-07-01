@@ -45,6 +45,11 @@
       "title": "Lemony Snicket's A Series of Unfortunate Events"
     },
     {
+      "slug": "the-girl-who-leapt-through-time",
+      "url": "https://letterboxd.com/film/the-girl-who-leapt-through-time/",
+      "title": "The Girl Who Leapt Through Time"
+    },
+    {
       "slug": "i-kill-giants",
       "url": "https://letterboxd.com/film/i-kill-giants/",
       "title": "I Kill Giants"
@@ -110,11 +115,6 @@
       "title": "War of the Worlds"
     },
     {
-      "slug": "alita-battle-angel",
-      "url": "https://letterboxd.com/film/alita-battle-angel/",
-      "title": "Alita: Battle Angel"
-    },
-    {
       "slug": "the-breakfast-club",
       "url": "https://letterboxd.com/film/the-breakfast-club/",
       "title": "The Breakfast Club"
@@ -143,6 +143,11 @@
       "slug": "the-new-mutants",
       "url": "https://letterboxd.com/film/the-new-mutants/",
       "title": "The New Mutants"
+    },
+    {
+      "slug": "alita-battle-angel",
+      "url": "https://letterboxd.com/film/alita-battle-angel/",
+      "title": "Alita: Battle Angel"
     },
     {
       "slug": "転生したらスライムだった件 転スラ日記",
@@ -2173,11 +2178,6 @@
       "slug": "the-foreigner-2017",
       "url": "https://letterboxd.com/film/the-foreigner-2017/",
       "title": "The Foreigner (2017)"
-    },
-    {
-      "slug": "the-girl-who-leapt-through-time",
-      "url": "https://letterboxd.com/film/the-girl-who-leapt-through-time/",
-      "title": "The Girl Who Leapt Through Time"
     },
     {
       "slug": "the-gorge-2025",
