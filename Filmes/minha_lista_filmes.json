@@ -972,7 +972,7 @@
     {
       "slug": "extraction-2020",
       "url": "https://letterboxd.com/film/extraction-2020/",
-      "title": "Extraction"
+      "title": "Extraction (2020)"
     },
     {
       "slug": "extraction-2",
@@ -1020,9 +1020,19 @@
       "title": "Stalingrad (2013)"
     },
     {
+      "slug": "cloverfield",
+      "url": "https://letterboxd.com/film/cloverfield/",
+      "title": "Cloverfield"
+    },
+    {
       "slug": "10-cloverfield-lane",
       "url": "https://letterboxd.com/film/10-cloverfield-lane/",
       "title": "10 Cloverfield Lane"
+    },
+	{
+      "slug": "the-cloverfield-paradox",
+      "url": "https://letterboxd.com/film/the-cloverfield-paradox/",
+      "title": "The Cloverfield Paradox"
     },
     {
       "slug": "21-jump-street",
@@ -1214,10 +1224,10 @@
       "url": "https://letterboxd.com/film/clash-of-the-titans-2010/",
       "title": "Clash of the Titans"
     },
-    {
-      "slug": "cloverfield",
-      "url": "https://letterboxd.com/film/cloverfield/",
-      "title": "Cloverfield"
+	{
+      "slug": "wrath-of-the-titans",
+      "url": "https://letterboxd.com/film/wrath-of-the-titans/",
+      "title": "Wrath of the Titans"
     },
     {
       "slug": "commando",
@@ -1468,6 +1478,11 @@
       "slug": "interstellar",
       "url": "https://letterboxd.com/film/interstellar/",
       "title": "Interstellar"
+    },
+	{
+      "slug": "pitch-black",
+      "url": "https://letterboxd.com/film/pitch-black/",
+      "title": "Pitch Black (2000)"
     },
     {
       "slug": "into-pitch-black",
@@ -1990,11 +2005,6 @@
       "title": "World War Z"
     },
     {
-      "slug": "wrath-of-the-titans",
-      "url": "https://letterboxd.com/film/wrath-of-the-titans/",
-      "title": "Wrath of the Titans"
-    },
-    {
       "slug": "yes-man",
       "url": "https://letterboxd.com/film/yes-man/",
       "title": "Yes Man"
@@ -2058,11 +2068,6 @@
       "slug": "passengers-2016",
       "url": "https://letterboxd.com/film/passengers-2016/",
       "title": "Passengers"
-    },
-    {
-      "slug": "pitch-black",
-      "url": "https://letterboxd.com/film/pitch-black/",
-      "title": "Pitch Black (2000)"
     },
     {
       "slug": "pixels-2015",
@@ -2150,11 +2155,6 @@
       "title": "The Beekeeper"
     },
     {
-      "slug": "the-cloverfield-paradox",
-      "url": "https://letterboxd.com/film/the-cloverfield-paradox/",
-      "title": "The Cloverfield Paradox"
-    },
-    {
       "slug": "the-dictator-2012",
       "url": "https://letterboxd.com/film/the-dictator-2012/",
       "title": "The Dictator"
@@ -2172,7 +2172,7 @@
     {
       "slug": "the-foreigner-2017",
       "url": "https://letterboxd.com/film/the-foreigner-2017/",
-      "title": "The Foreigner"
+      "title": "The Foreigner (2017)"
     },
     {
       "slug": "the-girl-who-leapt-through-time",
